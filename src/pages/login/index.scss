@@ -1,0 +1,25 @@
+.login-container {
+    color: #333;
+    width: 100%;
+    height: 100%;
+    background: #008FED;
+    .login-content {
+        width: 80%;
+        margin: 0 auto;
+        text-align: center;
+        .login-title{
+            padding-top: 50%;
+            padding-bottom: 30px;
+            font-size: 24px;
+            font-style: italic;
+            font-family: fira code;
+        }
+        .login-input{
+            button{
+                font-size: 14px;
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+        }
+    }
+}
